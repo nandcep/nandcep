@@ -16,11 +16,12 @@ My development tool(s) :
 - [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="18px">](https://code.visualstudio.com/), [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" height="18px">](https://www.jetbrains.com/datagrip/), [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="20px">](https://swagger.io/), and [<img src="https://typora.io/img/favicon-64.png" height="21px">](https://typora.io/)
 
 Some of free tools that help me a lot in development phase :
-1. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
-2. [Insomnia Client](https://github.com/Kong/insomnia)
-3. [Diagram IO](https://github.com/jgraph/drawio)
-4. [Mermaid](https://github.com/mermaid-js/mermaid)
-5. The rest may be found at [starred repos](https://github.com/adinandradrs?tab=stars) on my profile
+1. [Sonarqube](https://github.com/SonarSource/sonarqube)
+2. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
+3. [Insomnia Client](https://github.com/Kong/insomnia)
+4. [Diagram IO](https://github.com/jgraph/drawio)
+5. [Mermaid](https://github.com/mermaid-js/mermaid)
+6. The rest may be found at [starred repos](https://github.com/adinandradrs?tab=stars) on my profile
 
 Useful link(s) : 
 1. [12 Factor](https://12factor.net/)
