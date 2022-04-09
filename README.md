@@ -1,4 +1,4 @@
-### Hi there 👋, just call me adi
+### Hi there 👋, just call me Adi
 
 - 🔭 I’m currently working on Indonesian wireless network provider while helping to maintain Code4Fun in my spare time
 - 🌱 I’m currently learning Go and CI/CD even more fluent to speak in Java with its various components
