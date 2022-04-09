@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go and CI/CD even more fluent to speak in Java with its various components
 - 💡 I’m looking to collaborate on open source and cloud development
 - ⚡ Fun fact: I am writing a code only for special occasion, just too busy with my holiday~
-- An Apple fanboy, love remote working, Markdown fans club, I/O mindset (read and write)
+- An Apple fanboy, love remote working, Markdown fans, I/O mindset (read and write)
 
 [![Website](https://img.shields.io/website?label=adinandra.dharmasurya.id&style=for-the-badge&url=https://adinandra.dharmasurya.id)](https://adinandra.dharmasurya.id) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28px" height="28px">](https://instagram.com/adinandradrs)
 
