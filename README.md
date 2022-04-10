@@ -19,7 +19,7 @@ Carpenter's garage :
 1. [Sonarqube](https://github.com/SonarSource/sonarqube)
 2. [Wiremock](https://github.com/wiremock/wiremock)
 3. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
-4. [Insomnia Client](https://github.com/Kong/insomnia)
+4. [Postman](https://github.com/postmanlabs)
 5. [diagrams.net](https://github.com/jgraph/drawio)
 6. [Mermaid](https://github.com/mermaid-js/mermaid)
 7. The other curious things can be found at [starred repos](https://github.com/adinandradrs?tab=stars)
