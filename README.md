@@ -15,7 +15,7 @@ Carpenter's garage :
 - [<img src="https://wac-cdn.atlassian.com/dam/jcr:a22c9f02-b225-4e34-9f1d-e5ac0265e543/Confluence@2x-blue.png?cdnVersion=309" height="15px">](https://id.atlassian.com/login?continue=https%3A%2F%2Fsupport.atlassian.com%2Fconfluence-server%2F) and [<img src="https://wac-cdn.atlassian.com/dam/jcr:4e1c81b0-ef14-4d7a-89a5-98b66321d1af/trello-logo.png?cdnVersion=309" height="15px">](https://trello.com)
 - [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="18px">](https://code.visualstudio.com/), [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" height="18px">](https://www.jetbrains.com/datagrip/), [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="20px">](https://swagger.io/), and [<img src="https://typora.io/img/favicon-64.png" height="21px">](https://typora.io/)
 
-⚙️ Some of tools that help me a lot :
+⚙️ Some tools that help me a lot :
 1. [Sonarqube](https://github.com/SonarSource/sonarqube)
 2. [Wiremock](https://github.com/wiremock/wiremock)
 3. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
