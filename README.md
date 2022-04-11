@@ -1,5 +1,6 @@
 ### Hi there 👋, just call me Adi or Nandra
 
+Wondering to become an enterprise application expert, a game changer in engineering informatics which have been applied on many industries.
 - 🔭 I’m currently working on Indonesian wireless network provider while helping to maintain Code4Fun in my spare time
 - 🌱 I’m currently learning Go and CI/CD even more fluent to speak in Java with its various components
 - 💡 I’m looking to collaborate on open source and cloud development
