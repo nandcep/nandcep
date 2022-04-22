@@ -5,7 +5,7 @@ Wondering to become an enterprise application expert, a game changer in engineer
 - 🌱 I’m currently learning Go and CI/CD even more fluent to speak in Java with its various components
 - 💡 I’m looking to collaborate on open source and cloud development
 - ⚡ Fun fact: I am writing a code only for special occasion, just too busy with my holiday~
-- An Apple fanboy who prefer remote working, Markdown fans, and I/O mindset (read and write)
+- An Apple fanboy who prefer remote working, Markdown fans, and I/O mindset
 
 [Linkedin]: https://www.linkedin.com/in/adinandra-dharmasurya/
 [Instagram]: https://www.instagram.com/adinandradrs
