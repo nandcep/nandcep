@@ -29,7 +29,7 @@ Carpenter's garage :
 3. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
 4. [Postman](https://github.com/postmanlabs)
 5. [diagrams.net](https://github.com/jgraph/drawio)
-6. [Mermaid](https://github.com/mermaid-js/mermaid)
+6. [PlantUML](https://plantuml.com)
 7. The other curious things can be found at [starred repos](https://github.com/adinandradrs?tab=stars)
 
 📚 Useful link(s) : 
