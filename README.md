@@ -34,7 +34,9 @@ Powered by :
 4. Our savior, Google and Stackoveflow
 
 🛠️ My daily kit :
-[<img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" height="25px">](https://jetbrains.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="25px">](https://swagger.io/) [<img src="https://typora.io/img/favicon-64.png" height="25px">](https://typora.io/)
+1. [<img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" height="25px">](https://jetbrains.com/) 
+2. [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="25px">](https://swagger.io/) 
+3. [<img src="https://typora.io/img/favicon-64.png" height="25px">](https://typora.io/)
 
 Thanks GitHub!
 <!--
