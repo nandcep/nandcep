@@ -2,12 +2,13 @@
 
 An Apple fanboy who is wondering to become an enterprise application expert. As a game changer for more than 10 years in informatics engineering which have been applied on many industries, my specializations are in digital platform and middleware. 
 
-A detail person, well documented, love to be involved on design and architecture, a brain stormer, challenger, willing to do the best practice, avoid redundant work, and a problem solver.
 - 🔭 I’m currently working on Indonesian wireless network provider PT. Telekomunikasi Selular as Sr. Specialist
 - 🌱 I’m currently implementing Reactive System and speaking in Go - Java
 - 💡 I’m looking to collaborate on open source and cloud development
 - ⚡ Fun fact: I am writing a code only for special occasion, just too busy with my holiday~
 - 💬 Prefer a remote working, writing in Markdown format, and have a "consultant soul" deep in my mind
+
+A detail person, well documented, love to be involved on design and architecture, a brain stormer, challenger, willing to do the best practice, avoid redundant work, and a problem solver.
 
 [Linkedin]: https://www.linkedin.com/in/adinandra-dharmasurya/
 [Instagram]: https://www.instagram.com/adinandradrs
