@@ -1,11 +1,11 @@
 ### Hi there 👋, just call me Adi or Nandra
 
-Wondering to become an enterprise application expert, a game changer in engineering informatics which have been applied on many industries.
-- 🔭 I’m currently working on Indonesian wireless network provider while helping to maintain Code4Fun in my spare time
-- 🌱 I’m currently learning Go and CI/CD even more fluent to speak in Java with its various components
+💬 An Apple fanboy who is wondering to become an enterprise application expert. As a game changer for more than 10 years in informatics engineering which have been applied on many industries. A detail person, well documented, love to be involved on design and architecture, a brain stormer, challenger, willing to do the best practice, avoid redundant work, and a problem solver.
+- 🔭 I’m currently working on Indonesian wireless network provider PT. Telekomunikasi Seluler as Sr. IT Specialist
+- 🌱 I’m currently implementing Reactive System and speaking in Go - Java
 - 💡 I’m looking to collaborate on open source and cloud development
 - ⚡ Fun fact: I am writing a code only for special occasion, just too busy with my holiday~
-- An Apple fanboy who prefer remote working, Markdown fans, and I/O mindset
+- An Apple fanboy who prefer remote working, writing in Markdown format, and have a consultant soul deep in my mind 
 
 [Linkedin]: https://www.linkedin.com/in/adinandra-dharmasurya/
 [Instagram]: https://www.instagram.com/adinandradrs
