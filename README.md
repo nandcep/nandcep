@@ -23,7 +23,7 @@ Carpenter's garage :
 2. [Wiremock](https://github.com/wiremock/wiremock)
 3. [MockAPI](https://mockapi.io/)
 4. [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
-5. [Insomnia]([https://github.com/postmanlabs](https://github.com/Kong/insomnia))
+5. [Insomnia](https://github.com/Kong/insomnia)
 6. [diagrams.net](https://github.com/jgraph/drawio)
 7. [PlantUML](https://plantuml.com)
 8. The other curious things can be found at [starred repos](https://github.com/adinandradrs?tab=stars)
