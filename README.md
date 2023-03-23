@@ -10,7 +10,7 @@
 An Apple fanboy who is wondering to become an enterprise application expert. As a game changer for more than 10 years in informatics engineering which have been applied on many industries, my specializations are in digital platform and middleware. 
 
 - 🔭 I’m currently working on Indonesian wireless network provider PT. Telekomunikasi Selular (Telkomsel) as Sr. Specialist
-- 🌱 I’m currently implementing reactive systems with Go and Java
+- 🌱 I’m currently speaking for reactive systems with Go and Java
 - 💡 I’m looking to collaborate on open source and cloud development
 - ⚡ Fun fact: I am writing a code only for special occasion, just too busy with my holiday~
 - 💬 Prefer for remote working job, writing markdown, and have a "consultant soul" deep in my mind
