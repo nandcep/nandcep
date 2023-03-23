@@ -36,10 +36,6 @@ A detail person, well documented, love to be involved on design and architecture
 3. [Martin Fowler](https://martinfowler.com/)
 4. Our savior, Google and Stackoveflow
 
-🛠️ My daily kit :
-|[<img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" height="25px">](https://jetbrains.com/)  |[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="25px">](https://swagger.io/)  |[<img src="https://typora.io/img/favicon-64.png" height="25px">](https://typora.io/)  |
-|---|---|---|
-
 Thanks GitHub!
 <!--
 **adinandradrs/adinandradrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
