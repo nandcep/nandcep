@@ -17,9 +17,6 @@ An Apple fanboy who is wondering to become an enterprise application expert. As 
 
 A detail person, well documented, love to be involved on design and architecture, a brain stormer, challenger, willing to do the best practice, avoid redundant work, and a problem solver.
 
-**Powered by** 
-[<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />][GitVCS] [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][GitHubHome] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jekyll_%28software%29_Logo.png/440px-Jekyll_%28software%29_Logo.png" height="25px">](https://jekyllrb.com/) [<img src="https://wac-cdn.atlassian.com/dam/jcr:a22c9f02-b225-4e34-9f1d-e5ac0265e543/Confluence@2x-blue.png?cdnVersion=309" height="15px">](https://id.atlassian.com/login?continue=https%3A%2F%2Fsupport.atlassian.com%2Fconfluence-server%2F) [<img src="https://wac-cdn.atlassian.com/dam/jcr:4e1c81b0-ef14-4d7a-89a5-98b66321d1af/trello-logo.png?cdnVersion=309" height="15px">](https://trello.com) 
-
 ⚙️ Some tools that help me a lot :
 1. [Sonarqube](https://github.com/SonarSource/sonarqube)
 2. [Wiremock](https://github.com/wiremock/wiremock)
