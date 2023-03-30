@@ -3,7 +3,7 @@
 [GitHubHome]: https://github.com
 [GitVCS]: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
-[![Website](https://img.shields.io/website?label=medium&style=for-the-badge&url=https://medium.com/@adinandradrs)](medium.com/@adinandradrs) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram] [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
+[![Website](https://img.shields.io/website?label=medium&style=for-the-badge&url=https://medium.com/@adinandradrs)](https://medium.com/@adinandradrs) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram] [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
 
 ### Hi there 👋, just call me Adi or Nandra
 
