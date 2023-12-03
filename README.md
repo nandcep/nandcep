@@ -1,5 +1,6 @@
 [Linkedin]: https://www.linkedin.com/in/adinandra-dharmasurya/
 [Instagram]: https://www.instagram.com/adinandradrs
+[Twitter]: https://www.twitter.com/adinandradrs
 [GitHubHome]: https://github.com
 [GitVCS]: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
