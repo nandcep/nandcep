@@ -1,4 +1,4 @@
-### 👋 Hi there, just call me Adi or Nandra
+### 👋 Hi there!
 
 An Apple fanboy who is wondering to become an enterprise application expert. 
 Spelling a bad mantra through code editor. 
