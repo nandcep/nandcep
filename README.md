@@ -1,13 +1,12 @@
-### 👋 Hi there!
+### 👋 Hi there, this is Nandra!
 
-An Apple fanboy who is wondering to become an enterprise application expert. 
-Spelling a bad mantra through code editor.
+👨‍💻 An Apple fanboy who is wondering to become an enterprise application expert. Spelling a bad mantra through code editor. As a game changer for more than 12 years in informatics engineering on many industries.
 
-As a game changer for more than 12 years in informatics engineering which have been applied on many industries, my specializations are in technical consulting, digital platform, and integration / middleware. 
+💼 My specialization is in Enterprise Software Development consulting such as digital platform and integration or middleware. Beside that, I am a mediocre who practice coding kata. Below are what I'm doing right now: 
 
-- 🔭 I’m currently working on PT. Telekomunikasi Selular (Telkomsel) as DevSecOps Enabler
-- 🌱 I’m reactively speaking in C++, Go, Java, and Javascript with its various components 
-- 💡 I’m looking to collaborate on open source tools, CI/CD automation, and cloud development
-- ⚡ Fun fact: I am writing a code only for special occasion
+- 🌱 I'm natively speaking in C, Go, Java, and little bit of Typescript with its various components 
+- 🔭 I'm currently working on Telkomsel, one of the biggest Telco provider in Indonesia as DevSecOps Architect
+- 💡 I'm looking to collaborate on open source tools, CI/CD automation, and cloud development
+- ⚡ Fun fact that I am writing code only for special occasion
 
-Stack and tech that I'm working on Github related to my past, working context, and hobby.
+💻 Project, tech, and stack that I'm working on GitHub related to my past, working context, and hobby.
